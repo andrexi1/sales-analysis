@@ -40,3 +40,7 @@ Below are the primary views of the developed Power BI dashboard, illustrating th
 
 ![Regional and Category Performance View](IMAGES/Pagina2.png)
 *Figure 2: Granular view focusing on regional efficiency metrics and sub-category performance distributions.*
+
+## Contact
+* **Name:** Andres Barrera
+* **LinkedIn:** [linkedin.com/in/andresbarrera-dataanalytics](https://www.linkedin.com/in/andresbarrera-dataanalytics/)
