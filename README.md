@@ -29,5 +29,8 @@ Granular analysis reveals that specific product lines are actively diluting corp
 
 ### Tech Stack
 * Power BI Desktop
-* Power Query (M Language)
-* DAX (Data Analysis Expressions)
+* Power Query 
+* DAX 
+
+![Dashboard Main Executive View](images/Pagina1.png)
+![Dashboard Main Executive View](images/Pagina2.png)
