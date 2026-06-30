@@ -32,5 +32,11 @@ Granular analysis reveals that specific product lines are actively diluting corp
 * Power Query 
 * DAX 
 
+## Dashboard Architecture
+Below are the primary views of the developed Power BI dashboard, illustrating the distribution of KPIs and operational margins across different business dimensions.
+
 ![Dashboard Main Executive View](IMAGES/Pagina1.png)
-![Dashboard Main Executive View](IMAGES/Pagina2.png)
+*Figure 1: Main executive view showcasing high-level KPIs, global sales distribution, and total profitability.*
+
+![Regional and Category Performance View](IMAGES/Pagina2.png)
+*Figure 2: Granular view focusing on regional efficiency metrics and sub-category performance distributions.*
